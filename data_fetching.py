@@ -19,6 +19,7 @@ movie_names = [
     "Saving Christmas",
 ]
 
+#DATA FETCHING
 for movie in movie_names:
     """
     This step fetches data from Imdb according to movie names in the list
